@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Food",
+      "value": "MintChoc"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    }
+  ],
+  "description": "Matheus and his mint choc icecream.",
+  "image": "https://lime-worldwide-macaw-652.mypinata.cloud/ipfs/QmS2Xs8SMikgd6zS7NBuRHai6tPJq9fqbrbQ3HHsuZkSLu/mint.png",
+  "name": "MintChoc"
+}

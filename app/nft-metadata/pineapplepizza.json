@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Food",
+      "value": "PineapplePizza"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    }
+  ],
+  "description": "Matheus and his pineapple pizza.",
+  "image": "https://lime-worldwide-macaw-652.mypinata.cloud/ipfs/QmS2Xs8SMikgd6zS7NBuRHai6tPJq9fqbrbQ3HHsuZkSLu/pineapple.png",
+  "name": "PineapplePizza"
+}
